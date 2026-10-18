@@ -1,0 +1,1138 @@
+{
+ "am_nguyet_linh_loc": {
+  "w": 365,
+  "h": 384
+ },
+ "am_trieu_vo_than": {
+  "w": 380,
+  "h": 384
+ },
+ "anh_dao_la_phuc": {
+  "w": 379,
+  "h": 384
+ },
+ "ba_tuoc_chim_canh_cut": {
+  "w": 358,
+  "h": 384
+ },
+ "bach_cham_bao_bao": {
+  "w": 337,
+  "h": 384
+ },
+ "bach_loi_ho_vuong": {
+  "w": 382,
+  "h": 384
+ },
+ "bach_thi_dai_quy_vuong": {
+  "w": 388,
+  "h": 384
+ },
+ "ban_thach_cu_tuong": {
+  "w": 390,
+  "h": 384
+ },
+ "bang_hai_vo_de": {
+  "w": 372,
+  "h": 384
+ },
+ "bang_mao_ly_nguu": {
+  "w": 413,
+  "h": 384
+ },
+ "bang_phong_cu_vuong": {
+  "w": 386,
+  "h": 384
+ },
+ "bao_long_thu": {
+  "w": 378,
+  "h": 384
+ },
+ "bat_diet_viem_hoang": {
+  "w": 386,
+  "h": 384
+ },
+ "bom_tinh_nghich": {
+  "w": 371,
+  "h": 384
+ },
+ "ca_den_long": {
+  "w": 440,
+  "h": 329
+ },
+ "ca_mieng_rong": {
+  "w": 440,
+  "h": 330
+ },
+ "chien_than_da": {
+  "w": 354,
+  "h": 384
+ },
+ "chim_xanh": {
+  "w": 295,
+  "h": 384
+ },
+ "chuot_dien": {
+  "w": 348,
+  "h": 384
+ },
+ "chuot_loi_dien": {
+  "w": 328,
+  "h": 384
+ },
+ "co_moc_phu_linh": {
+  "w": 375,
+  "h": 384
+ },
+ "con_bang_phong_than": {
+  "w": 386,
+  "h": 384
+ },
+ "cot_ca_kiem": {
+  "w": 438,
+  "h": 384
+ },
+ "cot_dang_ngu": {
+  "w": 440,
+  "h": 365
+ },
+ "cot_kiem_hai_ma": {
+  "w": 408,
+  "h": 384
+ },
+ "cot_xa_nhi": {
+  "w": 388,
+  "h": 384
+ },
+ "cu_bao_tuong_quan": {
+  "w": 393,
+  "h": 384
+ },
+ "cu_khau_hai_vuong": {
+  "w": 407,
+  "h": 384
+ },
+ "cuong_phong_cu_vuong": {
+  "w": 398,
+  "h": 384
+ },
+ "cuong_tan_ma_co": {
+  "w": 389,
+  "h": 384
+ },
+ "cuu_thien_loi_ky_lan": {
+  "w": 383,
+  "h": 384
+ },
+ "cuu_u_cot_xa_vuong": {
+  "w": 387,
+  "h": 384
+ },
+ "da_anh_cu_vuong": {
+  "w": 387,
+  "h": 384
+ },
+ "da_lan_linh_mieu": {
+  "w": 385,
+  "h": 384
+ },
+ "dan_nhan_thu": {
+  "w": 330,
+  "h": 384
+ },
+ "dao_dung_dai_tuong": {
+  "w": 377,
+  "h": 384
+ },
+ "dao_dung_vo_si": {
+  "w": 375,
+  "h": 384
+ },
+ "dau_ung": {
+  "w": 305,
+  "h": 384
+ },
+ "di_lac_tho_vuong": {
+  "w": 375,
+  "h": 384
+ },
+ "di_loi_hiep_khach": {
+  "w": 381,
+  "h": 384
+ },
+ "di_tieu_hiep": {
+  "w": 345,
+  "h": 384
+ },
+ "dia_chan_giac_long": {
+  "w": 398,
+  "h": 384
+ },
+ "dia_long_khau_vuong": {
+  "w": 385,
+  "h": 384
+ },
+ "diem_anh_hac_bao": {
+  "w": 402,
+  "h": 384
+ },
+ "diem_bien_linh": {
+  "w": 375,
+  "h": 384
+ },
+ "diem_vuong_duong": {
+  "w": 385,
+  "h": 384
+ },
+ "dien_man_nhi": {
+  "w": 395,
+  "h": 384
+ },
+ "dien_mieu": {
+  "w": 362,
+  "h": 384
+ },
+ "dien_nhan_mieu": {
+  "w": 371,
+  "h": 384
+ },
+ "diep_bien_linh": {
+  "w": 379,
+  "h": 384
+ },
+ "diep_tan_oa": {
+  "w": 393,
+  "h": 384
+ },
+ "doc_ba_loi": {
+  "w": 373,
+  "h": 384
+ },
+ "doc_chu_nu_hoang": {
+  "w": 390,
+  "h": 384
+ },
+ "doc_giac_kim_ngu": {
+  "w": 381,
+  "h": 384
+ },
+ "doc_lang_chu": {
+  "w": 440,
+  "h": 347
+ },
+ "doc_nhan_cu_than": {
+  "w": 381,
+  "h": 384
+ },
+ "doc_nhan_quai": {
+  "w": 422,
+  "h": 384
+ },
+ "doc_tan_ma_quan": {
+  "w": 391,
+  "h": 384
+ },
+ "doc_thu_hai_ma": {
+  "w": 354,
+  "h": 384
+ },
+ "duc_than": {
+  "w": 377,
+  "h": 384
+ },
+ "dung_nham_ky_nhong": {
+  "w": 395,
+  "h": 384
+ },
+ "dung_nham_ma_vuong": {
+  "w": 392,
+  "h": 384
+ },
+ "hac_cham_ba_vuong": {
+  "w": 374,
+  "h": 384
+ },
+ "hac_cham_yen_bao_bao": {
+  "w": 351,
+  "h": 384
+ },
+ "hac_dieu_bao_long": {
+  "w": 381,
+  "h": 384
+ },
+ "hac_loi_ky_lan": {
+  "w": 388,
+  "h": 384
+ },
+ "hac_loi_thu_vuong": {
+  "w": 374,
+  "h": 384
+ },
+ "hac_phong_liet_ung": {
+  "w": 388,
+  "h": 384
+ },
+ "hac_than_bao": {
+  "w": 430,
+  "h": 384
+ },
+ "hac_thiet_giai_tuong": {
+  "w": 410,
+  "h": 384
+ },
+ "hai_au": {
+  "w": 440,
+  "h": 338
+ },
+ "hai_buc_ma": {
+  "w": 430,
+  "h": 384
+ },
+ "hai_long_ky_nhong": {
+  "w": 388,
+  "h": 384
+ },
+ "hai_ma_bao_bao": {
+  "w": 261,
+  "h": 384
+ },
+ "hai_ma_bat_trao": {
+  "w": 392,
+  "h": 384
+ },
+ "hai_thanh_cu_quy": {
+  "w": 402,
+  "h": 384
+ },
+ "hai_vuong_giai_de": {
+  "w": 409,
+  "h": 384
+ },
+ "hoa_bich_ho": {
+  "w": 391,
+  "h": 384
+ },
+ "hoa_diem_ho": {
+  "w": 368,
+  "h": 384
+ },
+ "hoa_diem_tuong_van_khuyen": {
+  "w": 347,
+  "h": 384
+ },
+ "hoa_duong_nhi": {
+  "w": 362,
+  "h": 384
+ },
+ "hoa_ho_nhi": {
+  "w": 371,
+  "h": 384
+ },
+ "hoa_nham_dong": {
+  "w": 340,
+  "h": 384
+ },
+ "hoa_nhuy_mieu": {
+  "w": 340,
+  "h": 384
+ },
+ "hoa_phuong_hoang": {
+  "w": 416,
+  "h": 384
+ },
+ "hoa_son_han_quy": {
+  "w": 404,
+  "h": 384
+ },
+ "hoa_vuong_linh_bao": {
+  "w": 382,
+  "h": 384
+ },
+ "hoang_kim_duc_than": {
+  "w": 374,
+  "h": 384
+ },
+ "hoang_kim_oc_vuong": {
+  "w": 388,
+  "h": 384
+ },
+ "hong_loi_mieu": {
+  "w": 363,
+  "h": 384
+ },
+ "hong_nhan": {
+  "w": 417,
+  "h": 384
+ },
+ "hu_khong_chuong_mon": {
+  "w": 392,
+  "h": 384
+ },
+ "hu_khong_hanh_gia": {
+  "w": 412,
+  "h": 384
+ },
+ "hu_nhan_ma_than": {
+  "w": 382,
+  "h": 384
+ },
+ "hu_vo_doc_nhan_than": {
+  "w": 382,
+  "h": 384
+ },
+ "huyen_bang_cu_linh": {
+  "w": 407,
+  "h": 384
+ },
+ "huyen_nham_kiem_quy": {
+  "w": 391,
+  "h": 384
+ },
+ "huyen_vu_thuy_than": {
+  "w": 381,
+  "h": 384
+ },
+ "huyet_nguyet_hac": {
+  "w": 383,
+  "h": 384
+ },
+ "huyet_nhan_cu_than": {
+  "w": 385,
+  "h": 384
+ },
+ "huynh_trung_nhi": {
+  "w": 376,
+  "h": 384
+ },
+ "khau_dai_thao": {
+  "w": 401,
+  "h": 384
+ },
+ "khoc_ti_moc_linh": {
+  "w": 319,
+  "h": 384
+ },
+ "khoi_loi_su": {
+  "w": 385,
+  "h": 384
+ },
+ "khung_giac_bao_long": {
+  "w": 398,
+  "h": 384
+ },
+ "kich_doc_khung_thu": {
+  "w": 440,
+  "h": 369
+ },
+ "kich_doc_quai": {
+  "w": 440,
+  "h": 364
+ },
+ "kiem_giap_han_quy": {
+  "w": 419,
+  "h": 384
+ },
+ "kien_moc_than_long": {
+  "w": 371,
+  "h": 384
+ },
+ "kim_chi_oc": {
+  "w": 381,
+  "h": 384
+ },
+ "kim_cuong_phach_vuong_thu": {
+  "w": 400,
+  "h": 384
+ },
+ "kim_cuong_xuyen_giap_vuong": {
+  "w": 385,
+  "h": 384
+ },
+ "kim_diep_co_vuong": {
+  "w": 387,
+  "h": 384
+ },
+ "kim_giap_chien_than": {
+  "w": 395,
+  "h": 384
+ },
+ "kim_long_doc_giac_ngu": {
+  "w": 384,
+  "h": 384
+ },
+ "kim_mao_than_duong": {
+  "w": 373,
+  "h": 384
+ },
+ "kim_o_than_dieu": {
+  "w": 385,
+  "h": 384
+ },
+ "kim_vu_liet_ung_vuong": {
+  "w": 389,
+  "h": 384
+ },
+ "kinh_ma": {
+  "w": 370,
+  "h": 384
+ },
+ "la_phuc_oa_oa": {
+  "w": 371,
+  "h": 384
+ },
+ "la_phuc_thao": {
+  "w": 375,
+  "h": 384
+ },
+ "la_phuc_thu_than": {
+  "w": 375,
+  "h": 384
+ },
+ "lac_lac": {
+  "w": 427,
+  "h": 384
+ },
+ "lam_diem_ho": {
+  "w": 367,
+  "h": 384
+ },
+ "lam_ma": {
+  "w": 409,
+  "h": 384
+ },
+ "lam_vu_hanh_dieu": {
+  "w": 385,
+  "h": 384
+ },
+ "liet_ung": {
+  "w": 390,
+  "h": 384
+ },
+ "linh_quang_loc": {
+  "w": 375,
+  "h": 384
+ },
+ "linh_quang_tieu_loc": {
+  "w": 334,
+  "h": 384
+ },
+ "loi_bien_linh": {
+  "w": 383,
+  "h": 384
+ },
+ "loi_dieu_thien_bang": {
+  "w": 399,
+  "h": 384
+ },
+ "loi_dinh_than_mieu": {
+  "w": 387,
+  "h": 384
+ },
+ "loi_hau_nhi": {
+  "w": 404,
+  "h": 384
+ },
+ "loi_ho_nhi": {
+  "w": 388,
+  "h": 384
+ },
+ "loi_huynh_trung": {
+  "w": 391,
+  "h": 384
+ },
+ "loi_ky_lan": {
+  "w": 389,
+  "h": 384
+ },
+ "loi_lan_nhi": {
+  "w": 379,
+  "h": 384
+ },
+ "loi_ma": {
+  "w": 413,
+  "h": 384
+ },
+ "loi_man": {
+  "w": 397,
+  "h": 384
+ },
+ "loi_man_long_vuong": {
+  "w": 384,
+  "h": 384
+ },
+ "loi_quang_dai_thanh": {
+  "w": 382,
+  "h": 384
+ },
+ "loi_quang_hau": {
+  "w": 440,
+  "h": 362
+ },
+ "loi_ung_ky_lan": {
+  "w": 388,
+  "h": 384
+ },
+ "loi_van_ho": {
+  "w": 389,
+  "h": 384
+ },
+ "loi_van_mieu": {
+  "w": 337,
+  "h": 384
+ },
+ "long_bao_boi": {
+  "w": 272,
+  "h": 384
+ },
+ "long_oa": {
+  "w": 391,
+  "h": 384
+ },
+ "luc_giap_trung": {
+  "w": 387,
+  "h": 384
+ },
+ "luc_hanh_dieu": {
+  "w": 293,
+  "h": 384
+ },
+ "ly_nguu_chien_xa": {
+  "w": 406,
+  "h": 384
+ },
+ "ly_nguu_nguu": {
+  "w": 440,
+  "h": 372
+ },
+ "ly_nguu_than_khac": {
+  "w": 417,
+  "h": 384
+ },
+ "mau_don_mieu": {
+  "w": 393,
+  "h": 384
+ },
+ "meo_yedoon": {
+  "w": 263,
+  "h": 384
+ },
+ "minh_dang_quy_vuong": {
+  "w": 375,
+  "h": 384
+ },
+ "minh_vuong_long": {
+  "w": 348,
+  "h": 384
+ },
+ "moc_giap_trung": {
+  "w": 393,
+  "h": 384
+ },
+ "moc_ngau_hoa_hau": {
+  "w": 383,
+  "h": 384
+ },
+ "muc_ma": {
+  "w": 440,
+  "h": 313
+ },
+ "nguoi_tuyet": {
+  "w": 396,
+  "h": 384
+ },
+ "nham_bien_linh": {
+  "w": 402,
+  "h": 384
+ },
+ "nham_ma": {
+  "w": 415,
+  "h": 384
+ },
+ "nham_nham_quy": {
+  "w": 440,
+  "h": 332
+ },
+ "nham_son_long": {
+  "w": 440,
+  "h": 357
+ },
+ "nhien_duc_buc": {
+  "w": 440,
+  "h": 306
+ },
+ "nhien_liep_su": {
+  "w": 381,
+  "h": 384
+ },
+ "nhiet_bao_phong_toc_khuyen": {
+  "w": 440,
+  "h": 378
+ },
+ "pha_kinh_ta_linh": {
+  "w": 404,
+  "h": 384
+ },
+ "phe_hoa_thu": {
+  "w": 298,
+  "h": 384
+ },
+ "phi_duc_ba_thu": {
+  "w": 385,
+  "h": 384
+ },
+ "phi_duc_thu": {
+  "w": 440,
+  "h": 359
+ },
+ "phi_phong_thu": {
+  "w": 396,
+  "h": 384
+ },
+ "phi_thu_hai_ma": {
+  "w": 335,
+  "h": 384
+ },
+ "phong_anh_thu_vuong": {
+  "w": 389,
+  "h": 384
+ },
+ "phong_cu": {
+  "w": 393,
+  "h": 384
+ },
+ "phong_dinh": {
+  "w": 417,
+  "h": 384
+ },
+ "phong_loi_duc_ho": {
+  "w": 382,
+  "h": 384
+ },
+ "phong_ma": {
+  "w": 414,
+  "h": 384
+ },
+ "phong_thu_nhi": {
+  "w": 396,
+  "h": 384
+ },
+ "phong_van_lac_lac": {
+  "w": 397,
+  "h": 384
+ },
+ "phu_du_dien_long": {
+  "w": 407,
+  "h": 384
+ },
+ "phu_du_quy_long": {
+  "w": 393,
+  "h": 384
+ },
+ "phuong_hac_thien_ton": {
+  "w": 388,
+  "h": 384
+ },
+ "phuong_hoang_nhi": {
+  "w": 361,
+  "h": 384
+ },
+ "quang_thach_duc_long": {
+  "w": 440,
+  "h": 377
+ },
+ "quy_dang_nhi": {
+  "w": 371,
+  "h": 384
+ },
+ "quy_hoa_dang": {
+  "w": 382,
+  "h": 384
+ },
+ "quy_loi_long_vuong": {
+  "w": 389,
+  "h": 384
+ },
+ "sa_mac_liep_su": {
+  "w": 379,
+  "h": 384
+ },
+ "song_loi_mieu_vuong": {
+  "w": 381,
+  "h": 384
+ },
+ "sung_te_giac_bao_long": {
+  "w": 384,
+  "h": 384
+ },
+ "ta_diem_khuyen_hoang": {
+  "w": 389,
+  "h": 384
+ },
+ "ta_ma_duc_hoang": {
+  "w": 392,
+  "h": 384
+ },
+ "ta_ma_duc_long": {
+  "w": 438,
+  "h": 384
+ },
+ "ta_van_khuyen_than": {
+  "w": 341,
+  "h": 384
+ },
+ "tai_tuoc": {
+  "w": 302,
+  "h": 384
+ },
+ "tai_tuoc_phong_quan": {
+  "w": 382,
+  "h": 384
+ },
+ "tan_ca_kiem": {
+  "w": 435,
+  "h": 384
+ },
+ "tay_quan_tieu_huong_tru": {
+  "w": 369,
+  "h": 384
+ },
+ "thach_hoa_lang_chu": {
+  "w": 430,
+  "h": 384
+ },
+ "thai_co_long_oa": {
+  "w": 378,
+  "h": 384
+ },
+ "tham_hai_buc_vuong": {
+  "w": 396,
+  "h": 384
+ },
+ "tham_hai_dang_ngu_vuong": {
+  "w": 396,
+  "h": 384
+ },
+ "than_bao_nhi": {
+  "w": 381,
+  "h": 384
+ },
+ "than_moc_loc_vuong": {
+  "w": 380,
+  "h": 384
+ },
+ "than_si_mieu": {
+  "w": 392,
+  "h": 384
+ },
+ "thao_diep_co": {
+  "w": 356,
+  "h": 384
+ },
+ "thao_thiet_hung_thu": {
+  "w": 386,
+  "h": 384
+ },
+ "thi_dai_quy": {
+  "w": 409,
+  "h": 384
+ },
+ "thi_nham_cot_long": {
+  "w": 398,
+  "h": 384
+ },
+ "thiem_dien_mieu": {
+  "w": 363,
+  "h": 384
+ },
+ "thien_khung_duc_hoang": {
+  "w": 376,
+  "h": 384
+ },
+ "thien_loi_anh_mieu": {
+  "w": 381,
+  "h": 384
+ },
+ "thien_loi_huynh_hau": {
+  "w": 378,
+  "h": 384
+ },
+ "thien_moc_phach_vuong": {
+  "w": 392,
+  "h": 384
+ },
+ "thien_phong_dinh_long": {
+  "w": 388,
+  "h": 384
+ },
+ "thien_viem_bao_long": {
+  "w": 382,
+  "h": 384
+ },
+ "thiet_moc_giap_vuong": {
+  "w": 391,
+  "h": 384
+ },
+ "thiet_nha_tru": {
+  "w": 399,
+  "h": 384
+ },
+ "thiet_ty_phach_vuong_thu": {
+  "w": 430,
+  "h": 384
+ },
+ "tho_di_lac_bunny": {
+  "w": 440,
+  "h": 381
+ },
+ "tho_lang_chu_chu": {
+  "w": 440,
+  "h": 351
+ },
+ "thu_phong_long_oa": {
+  "w": 379,
+  "h": 384
+ },
+ "thu_tan_oa": {
+  "w": 388,
+  "h": 384
+ },
+ "thuc_nhan_dai_thao_vuong": {
+  "w": 392,
+  "h": 384
+ },
+ "thuong_hai_long_ma": {
+  "w": 331,
+  "h": 384
+ },
+ "thuy_bien_linh": {
+  "w": 384,
+  "h": 384
+ },
+ "thuy_ky_nhong": {
+  "w": 407,
+  "h": 384
+ },
+ "thuy_ma": {
+  "w": 408,
+  "h": 384
+ },
+ "thuy_mau_hoang": {
+  "w": 385,
+  "h": 384
+ },
+ "thuy_thu_chim_canh_cut": {
+  "w": 388,
+  "h": 384
+ },
+ "thuy_thuong_phieu": {
+  "w": 385,
+  "h": 384
+ },
+ "tien_nhan_cau_bao_bao": {
+  "w": 316,
+  "h": 384
+ },
+ "tien_nhan_chuong_thu": {
+  "w": 389,
+  "h": 384
+ },
+ "tieu_cu_phong": {
+  "w": 362,
+  "h": 384
+ },
+ "tieu_dao_binh": {
+  "w": 277,
+  "h": 384
+ },
+ "tieu_giac_long": {
+  "w": 330,
+  "h": 384
+ },
+ "tieu_giai_binh": {
+  "w": 440,
+  "h": 363
+ },
+ "tieu_hai_buc": {
+  "w": 440,
+  "h": 359
+ },
+ "tieu_hoa_bich": {
+  "w": 359,
+  "h": 384
+ },
+ "tieu_khoi_loi": {
+  "w": 353,
+  "h": 384
+ },
+ "tieu_ky_nhong": {
+  "w": 393,
+  "h": 384
+ },
+ "tieu_thanh_dinh": {
+  "w": 440,
+  "h": 348
+ },
+ "tieu_xuyen_giap": {
+  "w": 326,
+  "h": 384
+ },
+ "tinh_ha_than_hac": {
+  "w": 378,
+  "h": 384
+ },
+ "tinh_hac_nhi": {
+  "w": 351,
+  "h": 384
+ },
+ "tinh_khong_hanh_gia": {
+  "w": 399,
+  "h": 384
+ },
+ "tinh_the_khung_thu": {
+  "w": 414,
+  "h": 384
+ },
+ "tinh_van_hac": {
+  "w": 398,
+  "h": 384
+ },
+ "toai_nham_khau_dan": {
+  "w": 356,
+  "h": 384
+ },
+ "toan_dia_khau_dan": {
+  "w": 415,
+  "h": 384
+ },
+ "tru_loc_diep": {
+  "w": 440,
+  "h": 346
+ },
+ "tru_vuong_cu_nha": {
+  "w": 404,
+  "h": 384
+ },
+ "tu_loi_than_si": {
+  "w": 382,
+  "h": 384
+ },
+ "tui_quy": {
+  "w": 384,
+  "h": 384
+ },
+ "tuong_quan_giai": {
+  "w": 440,
+  "h": 361
+ },
+ "tuyet_cau_bao_bao": {
+  "w": 406,
+  "h": 384
+ },
+ "tuyet_doi_linh_do_khuyen": {
+  "w": 412,
+  "h": 384
+ },
+ "tuyet_linh_bang_lang_vuong": {
+  "w": 390,
+  "h": 384
+ },
+ "tuyet_son_cu_linh": {
+  "w": 440,
+  "h": 382
+ },
+ "u_bien_linh": {
+  "w": 378,
+  "h": 384
+ },
+ "u_diem_phuong_hoang": {
+  "w": 390,
+  "h": 384
+ },
+ "u_linh_cot_xa": {
+  "w": 390,
+  "h": 384
+ },
+ "u_ma": {
+  "w": 410,
+  "h": 384
+ },
+ "u_minh_long_de": {
+  "w": 372,
+  "h": 384
+ },
+ "uy_qua_dai_ca": {
+  "w": 384,
+  "h": 384
+ },
+ "uy_qua_de_de": {
+  "w": 417,
+  "h": 384
+ },
+ "van_bien_linh": {
+  "w": 389,
+  "h": 384
+ },
+ "van_doc_khung_vuong": {
+  "w": 388,
+  "h": 384
+ },
+ "van_kinh_ta_de": {
+  "w": 388,
+  "h": 384
+ },
+ "van_tuyen_khoi_loi_vuong": {
+  "w": 383,
+  "h": 384
+ },
+ "viem_duc_buc_vuong": {
+  "w": 401,
+  "h": 384
+ },
+ "viem_giac_bao_long_hoang": {
+  "w": 387,
+  "h": 384
+ },
+ "viem_giac_duong": {
+  "w": 377,
+  "h": 384
+ },
+ "viem_giap_bich_long": {
+  "w": 389,
+  "h": 384
+ },
+ "viem_ma": {
+  "w": 417,
+  "h": 384
+ },
+ "viem_su_te": {
+  "w": 375,
+  "h": 384
+ },
+ "viem_vuong_su": {
+  "w": 386,
+  "h": 384
+ },
+ "vo_than_chim_canh_cut": {
+  "w": 374,
+  "h": 384
+ },
+ "vu_bien_linh": {
+  "w": 389,
+  "h": 384
+ },
+ "xich_diem_ho_vuong": {
+  "w": 385,
+  "h": 384
+ },
+ "xuyen_son_giap": {
+  "w": 382,
+  "h": 384
+ },
+ "yedoon_dai_hiep": {
+  "w": 375,
+  "h": 384
+ },
+ "zombie_nham_son_long": {
+  "w": 440,
+  "h": 337
+ }
+}
