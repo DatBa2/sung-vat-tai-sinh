@@ -1,0 +1,77 @@
+{
+  "mat_dat": 0.9219,
+  "dinh": 0.168,
+  "cao": 0.7539,
+  "trai": 0.0703,
+  "phai": 0.9258,
+  "tam_loi": [
+    0.5044,
+    0.6085
+  ],
+  "dau": [
+    0.668,
+    0.3023
+  ],
+  "ban_kinh_dau": 0.1432,
+  "khop_co": [
+    0.5972,
+    0.4349
+  ],
+  "khop_hong": [
+    0.5044,
+    0.6957
+  ],
+  "nguc": [
+    0.5346,
+    0.5935
+  ],
+  "ban_kinh_nguc": 0.2262,
+  "phan_phu": [
+    {
+      "loai": "canh",
+      "goc": [
+        0.3707,
+        0.3372
+      ],
+      "dai": 0.1173,
+      "dien_tich": 121
+    },
+    {
+      "loai": "canh",
+      "goc": [
+        0.8234,
+        0.6051
+      ],
+      "dai": 0.1402,
+      "dien_tich": 300
+    },
+    {
+      "loai": "tay",
+      "goc": [
+        0.6251,
+        0.6772
+      ],
+      "dien_tich": 4778
+    }
+  ],
+  "bay": false,
+  "tay": {
+    "co": true,
+    "goc": [
+      0.6251,
+      0.6772
+    ],
+    "dien_tich": 4778,
+    "nghi": 0.035,
+    "vung": 0.32,
+    "day": 0.035
+  },
+  "ten": "pet247",
+  "nguon": "pet247.png",
+  "co": 512,
+  "huong_goc": "phai",
+  "da_lat": false,
+  "he": "quy",
+  "diem_lua": [],
+  "xa_ngoai": 80
+}
