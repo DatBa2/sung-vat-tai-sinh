@@ -1,0 +1,84 @@
+{
+  "mat_dat": 0.9297,
+  "dinh": 0.0703,
+  "cao": 0.8594,
+  "trai": 0.0859,
+  "phai": 0.9102,
+  "tam_loi": [
+    0.5291,
+    0.554
+  ],
+  "dau": [
+    0.6064,
+    0.2734
+  ],
+  "ban_kinh_dau": 0.1633,
+  "khop_co": [
+    0.5609,
+    0.4387
+  ],
+  "khop_hong": [
+    0.5291,
+    0.6719
+  ],
+  "nguc": [
+    0.5635,
+    0.5368
+  ],
+  "ban_kinh_nguc": 0.2578,
+  "phan_phu": [
+    {
+      "loai": "sung",
+      "goc": [
+        0.6737,
+        0.1984
+      ],
+      "dai": 0.146
+    },
+    {
+      "loai": "sung",
+      "goc": [
+        0.7385,
+        0.346
+      ],
+      "dai": 0.0481
+    },
+    {
+      "loai": "duoi",
+      "goc": [
+        0.2833,
+        0.8303
+      ],
+      "dai": 0.2083,
+      "dien_tich": 596
+    },
+    {
+      "loai": "tay",
+      "goc": [
+        0.6666,
+        0.6494
+      ],
+      "dien_tich": 4121
+    }
+  ],
+  "bay": false,
+  "tay": {
+    "co": true,
+    "goc": [
+      0.6666,
+      0.6494
+    ],
+    "dien_tich": 4121,
+    "nghi": 0.035,
+    "vung": 0.32,
+    "day": 0.035
+  },
+  "ten": "pet052",
+  "nguon": "pet052.png",
+  "co": 512,
+  "huong_goc": "phai",
+  "da_lat": false,
+  "he": "thuy",
+  "diem_lua": [],
+  "xa_ngoai": 80
+}
