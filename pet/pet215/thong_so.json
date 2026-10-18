@@ -1,0 +1,93 @@
+{
+  "mat_dat": 0.9297,
+  "dinh": 0.0742,
+  "cao": 0.8555,
+  "trai": 0.0703,
+  "phai": 0.9258,
+  "tam_loi": [
+    0.5313,
+    0.5222
+  ],
+  "dau": [
+    0.7893,
+    0.2245
+  ],
+  "ban_kinh_dau": 0.1625,
+  "khop_co": [
+    0.6775,
+    0.3535
+  ],
+  "khop_hong": [
+    0.5313,
+    0.673
+  ],
+  "nguc": [
+    0.5655,
+    0.5051
+  ],
+  "ban_kinh_nguc": 0.2566,
+  "phan_phu": [
+    {
+      "loai": "sung",
+      "goc": [
+        0.8004,
+        0.1037
+      ],
+      "dai": 0.0273
+    },
+    {
+      "loai": "phu",
+      "goc": [
+        0.5313,
+        0.5222
+      ],
+      "dai": 0.1063,
+      "dien_tich": 126
+    },
+    {
+      "loai": "canh",
+      "goc": [
+        0.2451,
+        0.2836
+      ],
+      "dai": 0.1144,
+      "dien_tich": 322
+    },
+    {
+      "loai": "sung",
+      "goc": [
+        0.8677,
+        0.2115
+      ],
+      "dai": 0.0094
+    },
+    {
+      "loai": "tay",
+      "goc": [
+        0.6682,
+        0.5898
+      ],
+      "dien_tich": 4974
+    }
+  ],
+  "bay": false,
+  "tay": {
+    "co": true,
+    "goc": [
+      0.6682,
+      0.5898
+    ],
+    "dien_tich": 4974,
+    "nghi": 0.035,
+    "vung": 0.32,
+    "day": 0.035
+  },
+  "ten": "pet215",
+  "nguon": "pet215.png",
+  "co": 512,
+  "huong_goc": "phai",
+  "da_lat": false,
+  "he": "hoa",
+  "diem_lua": [],
+  "xa_ngoai": 80
+}

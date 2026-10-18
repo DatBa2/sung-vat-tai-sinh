@@ -1,0 +1,135 @@
+{
+  "mat_dat": 0.9141,
+  "dinh": 0.1992,
+  "cao": 0.7148,
+  "trai": 0.0703,
+  "phai": 0.9258,
+  "tam_loi": [
+    0.4978,
+    0.5316
+  ],
+  "dau": [
+    0.7398,
+    0.4955
+  ],
+  "ban_kinh_dau": 0.1358,
+  "khop_co": [
+    0.5988,
+    0.5165
+  ],
+  "khop_hong": [
+    0.4978,
+    0.6996
+  ],
+  "nguc": [
+    0.5264,
+    0.5173
+  ],
+  "ban_kinh_nguc": 0.2145,
+  "phan_phu": [
+    {
+      "loai": "sung",
+      "goc": [
+        0.769,
+        0.4265
+      ],
+      "dai": 0.0757
+    },
+    {
+      "loai": "phu",
+      "goc": [
+        0.4978,
+        0.5316
+      ],
+      "dai": 0.1013,
+      "dien_tich": 568
+    },
+    {
+      "loai": "duoi",
+      "goc": [
+        0.3009,
+        0.6251
+      ],
+      "dai": 0.7828,
+      "dien_tich": 1911
+    },
+    {
+      "loai": "phu",
+      "goc": [
+        0.4978,
+        0.5316
+      ],
+      "dai": 0.1886,
+      "dien_tich": 89
+    },
+    {
+      "loai": "phu",
+      "goc": [
+        0.4978,
+        0.5316
+      ],
+      "dai": 0.1385,
+      "dien_tich": 50
+    },
+    {
+      "loai": "phu",
+      "goc": [
+        0.4978,
+        0.5316
+      ],
+      "dai": 0.1556,
+      "dien_tich": 13
+    },
+    {
+      "loai": "phu",
+      "goc": [
+        0.4978,
+        0.5316
+      ],
+      "dai": 0.1593,
+      "dien_tich": 87
+    },
+    {
+      "loai": "phu",
+      "goc": [
+        0.4978,
+        0.5316
+      ],
+      "dai": 0.1275,
+      "dien_tich": 10
+    },
+    {
+      "loai": "phu",
+      "goc": [
+        0.4978,
+        0.5316
+      ],
+      "dai": 0.145,
+      "dien_tich": 41
+    },
+    {
+      "loai": "phu",
+      "goc": [
+        0.4978,
+        0.5316
+      ],
+      "dai": 0.1464,
+      "dien_tich": 8
+    }
+  ],
+  "bay": true,
+  "tay": {
+    "co": false,
+    "nghi": 0.035,
+    "vung": 0.32,
+    "day": 0.035
+  },
+  "ten": "pet184",
+  "nguon": "pet184.png",
+  "co": 512,
+  "huong_goc": "phai",
+  "da_lat": false,
+  "he": "thuy",
+  "diem_lua": [],
+  "xa_ngoai": 80
+}

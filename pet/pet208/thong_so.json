@@ -1,0 +1,92 @@
+{
+  "mat_dat": 0.918,
+  "dinh": 0.1328,
+  "cao": 0.7852,
+  "trai": 0.0703,
+  "phai": 0.9258,
+  "tam_loi": [
+    0.4911,
+    0.5271
+  ],
+  "dau": [
+    0.7736,
+    0.3692
+  ],
+  "ban_kinh_dau": 0.1492,
+  "khop_co": [
+    0.6369,
+    0.4456
+  ],
+  "khop_hong": [
+    0.4911,
+    0.6824
+  ],
+  "nguc": [
+    0.5225,
+    0.5114
+  ],
+  "ban_kinh_nguc": 0.2355,
+  "phan_phu": [
+    {
+      "loai": "sung",
+      "goc": [
+        0.7028,
+        0.2521
+      ],
+      "dai": 0.015
+    },
+    {
+      "loai": "sung",
+      "goc": [
+        0.8194,
+        0.2833
+      ],
+      "dai": 0.0384
+    },
+    {
+      "loai": "sung",
+      "goc": [
+        0.8761,
+        0.3565
+      ],
+      "dai": 0.015
+    },
+    {
+      "loai": "duoi",
+      "goc": [
+        0.3625,
+        0.828
+      ],
+      "dai": 0.1596,
+      "dien_tich": 746
+    },
+    {
+      "loai": "tay",
+      "goc": [
+        0.6167,
+        0.6415
+      ],
+      "dien_tich": 4346
+    }
+  ],
+  "bay": true,
+  "tay": {
+    "co": true,
+    "goc": [
+      0.6167,
+      0.6415
+    ],
+    "dien_tich": 4346,
+    "nghi": 0.035,
+    "vung": 0.32,
+    "day": 0.035
+  },
+  "ten": "pet208",
+  "nguon": "pet208.png",
+  "co": 512,
+  "huong_goc": "phai",
+  "da_lat": false,
+  "he": "phong",
+  "diem_lua": [],
+  "xa_ngoai": 80
+}
