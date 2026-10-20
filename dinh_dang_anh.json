@@ -1,1 +1,1 @@
-{"png": true, "webp": true}
+{"png": true, "webp": true, "png_mau": ["pet/*/mau_*.png", "assets/ui_hd/chan_dung/*.png", "assets/ui_hd/pet/*.png", "assets/ui_hd/dau_truong/*.png", "assets/ban_do/*.png", "assets/nhan_vat/*.png", "assets/vat_pham/*.png", "assets/trieu_hoi/*.png", "assets/hieu_ung_map/*.png", "assets/ban_do/nho/*.png"]}
