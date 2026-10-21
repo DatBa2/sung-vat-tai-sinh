@@ -1,0 +1,134 @@
+{
+ "schema_version": 1,
+ "pet_id": "thuy_thu_chim_canh_cut",
+ "status": "generated_checked",
+ "anh": "thuy_thu_chim_canh_cut_dong_atlas.png",
+ "dimensions": [
+  1536,
+  1024
+ ],
+ "frames": {
+  "nghi_0": {
+   "rect": {
+    "x": 49,
+    "y": 179,
+    "w": 287,
+    "h": 282
+   },
+   "foot_anchor_px": [
+    143,
+    281
+   ]
+  },
+  "nghi_1": {
+   "rect": {
+    "x": 433,
+    "y": 179,
+    "w": 287,
+    "h": 282
+   },
+   "foot_anchor_px": [
+    143,
+    281
+   ]
+  },
+  "nghi_2": {
+   "rect": {
+    "x": 816,
+    "y": 177,
+    "w": 290,
+    "h": 283
+   },
+   "foot_anchor_px": [
+    144,
+    283
+   ]
+  },
+  "nghi_3": {
+   "rect": {
+    "x": 1201,
+    "y": 175,
+    "w": 287,
+    "h": 285
+   },
+   "foot_anchor_px": [
+    143,
+    285
+   ]
+  },
+  "danh_0": {
+   "rect": {
+    "x": 63,
+    "y": 713,
+    "w": 274,
+    "h": 260
+   },
+   "foot_anchor_px": [
+    129,
+    259
+   ]
+  },
+  "danh_1": {
+   "rect": {
+    "x": 433,
+    "y": 690,
+    "w": 287,
+    "h": 283
+   },
+   "foot_anchor_px": [
+    143,
+    282
+   ]
+  },
+  "danh_2": {
+   "rect": {
+    "x": 817,
+    "y": 689,
+    "w": 288,
+    "h": 284
+   },
+   "foot_anchor_px": [
+    143,
+    283
+   ]
+  },
+  "danh_3": {
+   "rect": {
+    "x": 1201,
+    "y": 690,
+    "w": 288,
+    "h": 283
+   },
+   "foot_anchor_px": [
+    143,
+    282
+   ]
+  }
+ },
+ "hoat_anh": {
+  "nghi": {
+   "khung": [
+    "nghi_0",
+    "nghi_1",
+    "nghi_2",
+    "nghi_3"
+   ],
+   "fps": 6,
+   "lap": true
+  },
+  "danh": {
+   "khung": [
+    "danh_0",
+    "danh_1",
+    "danh_2",
+    "danh_3"
+   ],
+   "fps": 10,
+   "lap": false,
+   "khung_trung": "danh_2"
+  }
+ },
+ "ti_le_so_goc": 0.24,
+ "original_body_height_px": 1180.0,
+ "body_height_atlas_px": 283.2
+}

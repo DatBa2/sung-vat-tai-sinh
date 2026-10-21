@@ -1,0 +1,134 @@
+{
+ "schema_version": 1,
+ "pet_id": "luc_giap_trung",
+ "status": "generated_checked",
+ "anh": "luc_giap_trung_dong_atlas.png",
+ "dimensions": [
+  1536,
+  1024
+ ],
+ "frames": {
+  "nghi_0": {
+   "rect": {
+    "x": 55,
+    "y": 193,
+    "w": 281,
+    "h": 268
+   },
+   "foot_anchor_px": [
+    137,
+    267
+   ]
+  },
+  "nghi_1": {
+   "rect": {
+    "x": 439,
+    "y": 182,
+    "w": 281,
+    "h": 279
+   },
+   "foot_anchor_px": [
+    137,
+    278
+   ]
+  },
+  "nghi_2": {
+   "rect": {
+    "x": 823,
+    "y": 181,
+    "w": 282,
+    "h": 280
+   },
+   "foot_anchor_px": [
+    137,
+    279
+   ]
+  },
+  "nghi_3": {
+   "rect": {
+    "x": 1211,
+    "y": 184,
+    "w": 281,
+    "h": 277
+   },
+   "foot_anchor_px": [
+    133,
+    276
+   ]
+  },
+  "danh_0": {
+   "rect": {
+    "x": 54,
+    "y": 704,
+    "w": 284,
+    "h": 266
+   },
+   "foot_anchor_px": [
+    138,
+    268
+   ]
+  },
+  "danh_1": {
+   "rect": {
+    "x": 439,
+    "y": 694,
+    "w": 273,
+    "h": 279
+   },
+   "foot_anchor_px": [
+    137,
+    278
+   ]
+  },
+  "danh_2": {
+   "rect": {
+    "x": 823,
+    "y": 694,
+    "w": 281,
+    "h": 279
+   },
+   "foot_anchor_px": [
+    137,
+    278
+   ]
+  },
+  "danh_3": {
+   "rect": {
+    "x": 1207,
+    "y": 694,
+    "w": 281,
+    "h": 269
+   },
+   "foot_anchor_px": [
+    137,
+    278
+   ]
+  }
+ },
+ "hoat_anh": {
+  "nghi": {
+   "khung": [
+    "nghi_0",
+    "nghi_1",
+    "nghi_2",
+    "nghi_3"
+   ],
+   "fps": 6,
+   "lap": true
+  },
+  "danh": {
+   "khung": [
+    "danh_0",
+    "danh_1",
+    "danh_2",
+    "danh_3"
+   ],
+   "fps": 10,
+   "lap": false,
+   "khung_trung": "danh_2"
+  }
+ },
+ "ti_le_so_goc": 0.24,
+ "original_body_height_px": 741.0,
+ "body_height_atlas_px": 177.84
+}

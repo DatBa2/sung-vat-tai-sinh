@@ -1,0 +1,128 @@
+{
+ "schema_version": 1,
+ "pet_id": "loi_ky_lan",
+ "status": "generated_checked",
+ "anh": "loi_ky_lan_sieu_atlas.png",
+ "dimensions": [
+  1536,
+  1024
+ ],
+ "frames": {
+  "sieu_0": {
+   "rect": {
+    "x": 40,
+    "y": 166,
+    "w": 305,
+    "h": 295
+   },
+   "foot_anchor_px": [
+    152,
+    294
+   ]
+  },
+  "sieu_1": {
+   "rect": {
+    "x": 426,
+    "y": 158,
+    "w": 301,
+    "h": 303
+   },
+   "foot_anchor_px": [
+    150,
+    302
+   ]
+  },
+  "sieu_2": {
+   "rect": {
+    "x": 805,
+    "y": 155,
+    "w": 311,
+    "h": 306
+   },
+   "foot_anchor_px": [
+    155,
+    305
+   ]
+  },
+  "sieu_3": {
+   "rect": {
+    "x": 1174,
+    "y": 153,
+    "w": 341,
+    "h": 307
+   },
+   "foot_anchor_px": [
+    170,
+    307
+   ]
+  },
+  "sieu_4": {
+   "rect": {
+    "x": 38,
+    "y": 669,
+    "w": 307,
+    "h": 303
+   },
+   "foot_anchor_px": [
+    154,
+    303
+   ]
+  },
+  "sieu_5": {
+   "rect": {
+    "x": 421,
+    "y": 669,
+    "w": 310,
+    "h": 304
+   },
+   "foot_anchor_px": [
+    155,
+    303
+   ]
+  },
+  "sieu_6": {
+   "rect": {
+    "x": 806,
+    "y": 669,
+    "w": 308,
+    "h": 304
+   },
+   "foot_anchor_px": [
+    154,
+    303
+   ]
+  },
+  "sieu_7": {
+   "rect": {
+    "x": 1190,
+    "y": 669,
+    "w": 307,
+    "h": 304
+   },
+   "foot_anchor_px": [
+    154,
+    303
+   ]
+  }
+ },
+ "hoat_anh": {
+  "sieu": {
+   "khung": [
+    "sieu_0",
+    "sieu_1",
+    "sieu_2",
+    "sieu_3",
+    "sieu_4",
+    "sieu_5",
+    "sieu_6",
+    "sieu_7"
+   ],
+   "fps": 12,
+   "lap": false,
+   "khung_dinh": "sieu_3"
+  }
+ },
+ "ti_le_so_goc": 0.254453,
+ "original_body_height_px": 1179.0,
+ "body_height_atlas_px": 300.0
+}

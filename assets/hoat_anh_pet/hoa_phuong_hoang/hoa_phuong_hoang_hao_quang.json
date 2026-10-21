@@ -1,0 +1,127 @@
+{
+ "schema_version": 1,
+ "pet_id": "hoa_phuong_hoang",
+ "status": "generated_checked",
+ "anh": "hoa_phuong_hoang_hao_quang_atlas.png",
+ "dimensions": [
+  1536,
+  1024
+ ],
+ "frames": {
+  "hq_0": {
+   "rect": {
+    "x": 16,
+    "y": 40,
+    "w": 359,
+    "h": 434
+   },
+   "foot_anchor_px": [
+    176,
+    390
+   ]
+  },
+  "hq_1": {
+   "rect": {
+    "x": 397,
+    "y": 31,
+    "w": 360,
+    "h": 446
+   },
+   "foot_anchor_px": [
+    179,
+    399
+   ]
+  },
+  "hq_2": {
+   "rect": {
+    "x": 777,
+    "y": 55,
+    "w": 367,
+    "h": 422
+   },
+   "foot_anchor_px": [
+    183,
+    375
+   ]
+  },
+  "hq_3": {
+   "rect": {
+    "x": 1165,
+    "y": 50,
+    "w": 358,
+    "h": 427
+   },
+   "foot_anchor_px": [
+    179,
+    380
+   ]
+  },
+  "hq_4": {
+   "rect": {
+    "x": 17,
+    "y": 551,
+    "w": 362,
+    "h": 432
+   },
+   "foot_anchor_px": [
+    175,
+    391
+   ]
+  },
+  "hq_5": {
+   "rect": {
+    "x": 394,
+    "y": 530,
+    "w": 364,
+    "h": 456
+   },
+   "foot_anchor_px": [
+    182,
+    412
+   ]
+  },
+  "hq_6": {
+   "rect": {
+    "x": 778,
+    "y": 561,
+    "w": 368,
+    "h": 425
+   },
+   "foot_anchor_px": [
+    182,
+    381
+   ]
+  },
+  "hq_7": {
+   "rect": {
+    "x": 1160,
+    "y": 556,
+    "w": 363,
+    "h": 429
+   },
+   "foot_anchor_px": [
+    184,
+    386
+   ]
+  }
+ },
+ "hoat_anh": {
+  "hao_quang": {
+   "khung": [
+    "hq_0",
+    "hq_1",
+    "hq_2",
+    "hq_3",
+    "hq_4",
+    "hq_5",
+    "hq_6",
+    "hq_7"
+   ],
+   "fps": 10,
+   "lap": true
+  }
+ },
+ "ti_le_so_goc": 0.246154,
+ "original_body_height_px": 650.0,
+ "body_height_atlas_px": 160.0
+}

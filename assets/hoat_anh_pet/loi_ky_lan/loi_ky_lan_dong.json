@@ -1,0 +1,134 @@
+{
+ "schema_version": 1,
+ "pet_id": "loi_ky_lan",
+ "status": "generated_checked",
+ "anh": "loi_ky_lan_dong_atlas.png",
+ "dimensions": [
+  1536,
+  1024
+ ],
+ "frames": {
+  "nghi_0": {
+   "rect": {
+    "x": 37,
+    "y": 157,
+    "w": 309,
+    "h": 304
+   },
+   "foot_anchor_px": [
+    155,
+    303
+   ]
+  },
+  "nghi_1": {
+   "rect": {
+    "x": 421,
+    "y": 158,
+    "w": 310,
+    "h": 303
+   },
+   "foot_anchor_px": [
+    155,
+    302
+   ]
+  },
+  "nghi_2": {
+   "rect": {
+    "x": 806,
+    "y": 157,
+    "w": 307,
+    "h": 303
+   },
+   "foot_anchor_px": [
+    154,
+    303
+   ]
+  },
+  "nghi_3": {
+   "rect": {
+    "x": 1188,
+    "y": 157,
+    "w": 313,
+    "h": 304
+   },
+   "foot_anchor_px": [
+    156,
+    303
+   ]
+  },
+  "danh_0": {
+   "rect": {
+    "x": 24,
+    "y": 677,
+    "w": 336,
+    "h": 295
+   },
+   "foot_anchor_px": [
+    168,
+    295
+   ]
+  },
+  "danh_1": {
+   "rect": {
+    "x": 419,
+    "y": 670,
+    "w": 314,
+    "h": 303
+   },
+   "foot_anchor_px": [
+    157,
+    302
+   ]
+  },
+  "danh_2": {
+   "rect": {
+    "x": 803,
+    "y": 669,
+    "w": 314,
+    "h": 303
+   },
+   "foot_anchor_px": [
+    157,
+    303
+   ]
+  },
+  "danh_3": {
+   "rect": {
+    "x": 1185,
+    "y": 670,
+    "w": 318,
+    "h": 303
+   },
+   "foot_anchor_px": [
+    159,
+    302
+   ]
+  }
+ },
+ "hoat_anh": {
+  "nghi": {
+   "khung": [
+    "nghi_0",
+    "nghi_1",
+    "nghi_2",
+    "nghi_3"
+   ],
+   "fps": 6,
+   "lap": true
+  },
+  "danh": {
+   "khung": [
+    "danh_0",
+    "danh_1",
+    "danh_2",
+    "danh_3"
+   ],
+   "fps": 10,
+   "lap": false,
+   "khung_trung": "danh_2"
+  }
+ },
+ "ti_le_so_goc": 0.254453,
+ "original_body_height_px": 1179.0,
+ "body_height_atlas_px": 300.0
+}
