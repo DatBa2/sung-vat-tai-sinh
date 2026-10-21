@@ -1,0 +1,134 @@
+{
+ "schema_version": 1,
+ "pet_id": "hai_buc_ma",
+ "status": "generated_checked",
+ "anh": "hai_buc_ma_dong_atlas.png",
+ "dimensions": [
+  668,
+  1186
+ ],
+ "frames": {
+  "nghi_0": {
+   "rect": {
+    "x": 1,
+    "y": 1,
+    "w": 330,
+    "h": 296
+   },
+   "foot_anchor_px": [
+    165,
+    206
+   ]
+  },
+  "nghi_1": {
+   "rect": {
+    "x": 1,
+    "y": 301,
+    "w": 330,
+    "h": 294
+   },
+   "foot_anchor_px": [
+    165,
+    205
+   ]
+  },
+  "nghi_2": {
+   "rect": {
+    "x": 1,
+    "y": 599,
+    "w": 332,
+    "h": 296
+   },
+   "foot_anchor_px": [
+    166,
+    206
+   ]
+  },
+  "nghi_3": {
+   "rect": {
+    "x": 1,
+    "y": 899,
+    "w": 324,
+    "h": 286
+   },
+   "foot_anchor_px": [
+    160,
+    205
+   ]
+  },
+  "danh_0": {
+   "rect": {
+    "x": 337,
+    "y": 1,
+    "w": 319,
+    "h": 285
+   },
+   "foot_anchor_px": [
+    157,
+    201
+   ]
+  },
+  "danh_1": {
+   "rect": {
+    "x": 337,
+    "y": 290,
+    "w": 330,
+    "h": 297
+   },
+   "foot_anchor_px": [
+    165,
+    206
+   ]
+  },
+  "danh_2": {
+   "rect": {
+    "x": 337,
+    "y": 591,
+    "w": 325,
+    "h": 294
+   },
+   "foot_anchor_px": [
+    163,
+    205
+   ]
+  },
+  "danh_3": {
+   "rect": {
+    "x": 337,
+    "y": 889,
+    "w": 330,
+    "h": 295
+   },
+   "foot_anchor_px": [
+    165,
+    205
+   ]
+  }
+ },
+ "hoat_anh": {
+  "nghi": {
+   "khung": [
+    "nghi_0",
+    "nghi_1",
+    "nghi_2",
+    "nghi_3"
+   ],
+   "fps": 6,
+   "lap": true
+  },
+  "danh": {
+   "khung": [
+    "danh_0",
+    "danh_1",
+    "danh_2",
+    "danh_3"
+   ],
+   "fps": 10,
+   "lap": false,
+   "khung_trung": "danh_2"
+  }
+ },
+ "ti_le_so_goc": 0.269608,
+ "original_body_height_px": 408.0,
+ "body_height_atlas_px": 110.0
+}

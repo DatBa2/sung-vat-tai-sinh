@@ -1,0 +1,134 @@
+{
+ "schema_version": 1,
+ "pet_id": "ca_den_long",
+ "status": "generated_checked",
+ "anh": "ca_den_long_dong_atlas.png",
+ "dimensions": [
+  667,
+  865
+ ],
+ "frames": {
+  "nghi_0": {
+   "rect": {
+    "x": 363,
+    "y": 227,
+    "w": 286,
+    "h": 211
+   },
+   "foot_anchor_px": [
+    143,
+    177
+   ]
+  },
+  "nghi_1": {
+   "rect": {
+    "x": 323,
+    "y": 1,
+    "w": 333,
+    "h": 215
+   },
+   "foot_anchor_px": [
+    171,
+    181
+   ]
+  },
+  "nghi_2": {
+   "rect": {
+    "x": 1,
+    "y": 445,
+    "w": 310,
+    "h": 209
+   },
+   "foot_anchor_px": [
+    152,
+    176
+   ]
+  },
+  "nghi_3": {
+   "rect": {
+    "x": 1,
+    "y": 658,
+    "w": 326,
+    "h": 206
+   },
+   "foot_anchor_px": [
+    162,
+    171
+   ]
+  },
+  "danh_0": {
+   "rect": {
+    "x": 331,
+    "y": 658,
+    "w": 325,
+    "h": 206
+   },
+   "foot_anchor_px": [
+    159,
+    180
+   ]
+  },
+  "danh_1": {
+   "rect": {
+    "x": 315,
+    "y": 445,
+    "w": 351,
+    "h": 206
+   },
+   "foot_anchor_px": [
+    173,
+    179
+   ]
+  },
+  "danh_2": {
+   "rect": {
+    "x": 1,
+    "y": 227,
+    "w": 358,
+    "h": 214
+   },
+   "foot_anchor_px": [
+    172,
+    186
+   ]
+  },
+  "danh_3": {
+   "rect": {
+    "x": 1,
+    "y": 1,
+    "w": 318,
+    "h": 222
+   },
+   "foot_anchor_px": [
+    158,
+    187
+   ]
+  }
+ },
+ "hoat_anh": {
+  "nghi": {
+   "khung": [
+    "nghi_0",
+    "nghi_1",
+    "nghi_2",
+    "nghi_3"
+   ],
+   "fps": 6,
+   "lap": true
+  },
+  "danh": {
+   "khung": [
+    "danh_0",
+    "danh_1",
+    "danh_2",
+    "danh_3"
+   ],
+   "fps": 10,
+   "lap": false,
+   "khung_trung": "danh_2"
+  }
+ },
+ "ti_le_so_goc": 0.231729,
+ "original_body_height_px": 561.0,
+ "body_height_atlas_px": 130.0
+}

@@ -1,0 +1,134 @@
+{
+ "schema_version": 1,
+ "pet_id": "van_bien_linh",
+ "status": "generated_checked",
+ "anh": "van_bien_linh_dong_atlas.png",
+ "dimensions": [
+  1392,
+  667
+ ],
+ "frames": {
+  "nghi_0": {
+   "rect": {
+    "x": 687,
+    "y": 336,
+    "w": 335,
+    "h": 330
+   },
+   "foot_anchor_px": [
+    167.5,
+    329
+   ]
+  },
+  "nghi_1": {
+   "rect": {
+    "x": 345,
+    "y": 336,
+    "w": 338,
+    "h": 330
+   },
+   "foot_anchor_px": [
+    168.5,
+    329
+   ]
+  },
+  "nghi_2": {
+   "rect": {
+    "x": 1,
+    "y": 336,
+    "w": 340,
+    "h": 330
+   },
+   "foot_anchor_px": [
+    170.5,
+    329
+   ]
+  },
+  "nghi_3": {
+   "rect": {
+    "x": 1036,
+    "y": 1,
+    "w": 343,
+    "h": 330
+   },
+   "foot_anchor_px": [
+    173.5,
+    329
+   ]
+  },
+  "danh_0": {
+   "rect": {
+    "x": 1026,
+    "y": 336,
+    "w": 365,
+    "h": 321
+   },
+   "foot_anchor_px": [
+    189.5,
+    320
+   ]
+  },
+  "danh_1": {
+   "rect": {
+    "x": 1,
+    "y": 1,
+    "w": 341,
+    "h": 331
+   },
+   "foot_anchor_px": [
+    172.5,
+    330
+   ]
+  },
+  "danh_2": {
+   "rect": {
+    "x": 686,
+    "y": 1,
+    "w": 346,
+    "h": 330
+   },
+   "foot_anchor_px": [
+    168.5,
+    329
+   ]
+  },
+  "danh_3": {
+   "rect": {
+    "x": 346,
+    "y": 1,
+    "w": 336,
+    "h": 331
+   },
+   "foot_anchor_px": [
+    167.5,
+    330
+   ]
+  }
+ },
+ "hoat_anh": {
+  "nghi": {
+   "khung": [
+    "nghi_0",
+    "nghi_1",
+    "nghi_2",
+    "nghi_3"
+   ],
+   "fps": 6,
+   "lap": true
+  },
+  "danh": {
+   "khung": [
+    "danh_0",
+    "danh_1",
+    "danh_2",
+    "danh_3"
+   ],
+   "fps": 10,
+   "lap": false,
+   "khung_trung": "danh_2"
+  }
+ },
+ "ti_le_so_goc": 0.285962,
+ "original_body_height_px": 1154.0,
+ "body_height_atlas_px": 330.0
+}

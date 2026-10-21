@@ -1,0 +1,134 @@
+{
+ "schema_version": 1,
+ "pet_id": "tieu_xuyen_giap",
+ "status": "generated_checked",
+ "anh": "tieu_xuyen_giap_dong_atlas.png",
+ "dimensions": [
+  1269,
+  727
+ ],
+ "frames": {
+  "nghi_0": {
+   "rect": {
+    "x": 1,
+    "y": 1,
+    "w": 307,
+    "h": 361
+   },
+   "foot_anchor_px": [
+    153.5,
+    360
+   ]
+  },
+  "nghi_1": {
+   "rect": {
+    "x": 312,
+    "y": 1,
+    "w": 314,
+    "h": 360
+   },
+   "foot_anchor_px": [
+    157.5,
+    359
+   ]
+  },
+  "nghi_2": {
+   "rect": {
+    "x": 630,
+    "y": 1,
+    "w": 313,
+    "h": 360
+   },
+   "foot_anchor_px": [
+    156.5,
+    359
+   ]
+  },
+  "nghi_3": {
+   "rect": {
+    "x": 947,
+    "y": 1,
+    "w": 321,
+    "h": 360
+   },
+   "foot_anchor_px": [
+    194.5,
+    359
+   ]
+  },
+  "danh_0": {
+   "rect": {
+    "x": 1,
+    "y": 366,
+    "w": 308,
+    "h": 353
+   },
+   "foot_anchor_px": [
+    154.5,
+    352
+   ]
+  },
+  "danh_1": {
+   "rect": {
+    "x": 313,
+    "y": 366,
+    "w": 307,
+    "h": 360
+   },
+   "foot_anchor_px": [
+    157.5,
+    359
+   ]
+  },
+  "danh_2": {
+   "rect": {
+    "x": 624,
+    "y": 366,
+    "w": 328,
+    "h": 360
+   },
+   "foot_anchor_px": [
+    153.5,
+    359
+   ]
+  },
+  "danh_3": {
+   "rect": {
+    "x": 956,
+    "y": 366,
+    "w": 307,
+    "h": 360
+   },
+   "foot_anchor_px": [
+    158.5,
+    359
+   ]
+  }
+ },
+ "hoat_anh": {
+  "nghi": {
+   "khung": [
+    "nghi_0",
+    "nghi_1",
+    "nghi_2",
+    "nghi_3"
+   ],
+   "fps": 6,
+   "lap": true
+  },
+  "danh": {
+   "khung": [
+    "danh_0",
+    "danh_1",
+    "danh_2",
+    "danh_3"
+   ],
+   "fps": 10,
+   "lap": false,
+   "khung_trung": "danh_2"
+  }
+ },
+ "ti_le_so_goc": 0.30176,
+ "original_body_height_px": 1193.0,
+ "body_height_atlas_px": 360.0
+}

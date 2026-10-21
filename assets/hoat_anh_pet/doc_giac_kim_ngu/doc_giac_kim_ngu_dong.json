@@ -1,0 +1,134 @@
+{
+ "schema_version": 1,
+ "pet_id": "doc_giac_kim_ngu",
+ "status": "generated_checked",
+ "anh": "doc_giac_kim_ngu_dong_atlas.png",
+ "dimensions": [
+  1342,
+  662
+ ],
+ "frames": {
+  "nghi_0": {
+   "rect": {
+    "x": 357,
+    "y": 1,
+    "w": 333,
+    "h": 324
+   },
+   "foot_anchor_px": [
+    166.5,
+    259
+   ]
+  },
+  "nghi_1": {
+   "rect": {
+    "x": 694,
+    "y": 1,
+    "w": 325,
+    "h": 326
+   },
+   "foot_anchor_px": [
+    169.5,
+    263
+   ]
+  },
+  "nghi_2": {
+   "rect": {
+    "x": 1023,
+    "y": 1,
+    "w": 318,
+    "h": 320
+   },
+   "foot_anchor_px": [
+    157.5,
+    259
+   ]
+  },
+  "nghi_3": {
+   "rect": {
+    "x": 1,
+    "y": 1,
+    "w": 352,
+    "h": 328
+   },
+   "foot_anchor_px": [
+    170.5,
+    266
+   ]
+  },
+  "danh_0": {
+   "rect": {
+    "x": 1023,
+    "y": 325,
+    "w": 300,
+    "h": 312
+   },
+   "foot_anchor_px": [
+    145.5,
+    257
+   ]
+  },
+  "danh_1": {
+   "rect": {
+    "x": 357,
+    "y": 329,
+    "w": 328,
+    "h": 332
+   },
+   "foot_anchor_px": [
+    175.5,
+    266
+   ]
+  },
+  "danh_2": {
+   "rect": {
+    "x": 694,
+    "y": 331,
+    "w": 319,
+    "h": 322
+   },
+   "foot_anchor_px": [
+    159.5,
+    259
+   ]
+  },
+  "danh_3": {
+   "rect": {
+    "x": 1,
+    "y": 333,
+    "w": 339,
+    "h": 325
+   },
+   "foot_anchor_px": [
+    169.5,
+    260
+   ]
+  }
+ },
+ "hoat_anh": {
+  "nghi": {
+   "khung": [
+    "nghi_0",
+    "nghi_1",
+    "nghi_2",
+    "nghi_3"
+   ],
+   "fps": 6,
+   "lap": true
+  },
+  "danh": {
+   "khung": [
+    "danh_0",
+    "danh_1",
+    "danh_2",
+    "danh_3"
+   ],
+   "fps": 10,
+   "lap": false,
+   "khung_trung": "danh_2"
+  }
+ },
+ "ti_le_so_goc": 0.268456,
+ "original_body_height_px": 596.0,
+ "body_height_atlas_px": 160.0
+}

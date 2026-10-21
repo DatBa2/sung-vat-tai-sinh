@@ -1,0 +1,134 @@
+{
+ "schema_version": 1,
+ "pet_id": "tuyet_cau_bao_bao",
+ "status": "generated_checked",
+ "anh": "tuyet_cau_bao_bao_dong_atlas.png",
+ "dimensions": [
+  1328,
+  605
+ ],
+ "frames": {
+  "nghi_0": {
+   "rect": {
+    "x": 690,
+    "y": 1,
+    "w": 317,
+    "h": 299
+   },
+   "foot_anchor_px": [
+    158.5,
+    298
+   ]
+  },
+  "nghi_1": {
+   "rect": {
+    "x": 360,
+    "y": 304,
+    "w": 320,
+    "h": 300
+   },
+   "foot_anchor_px": [
+    161.5,
+    299
+   ]
+  },
+  "nghi_2": {
+   "rect": {
+    "x": 690,
+    "y": 304,
+    "w": 317,
+    "h": 299
+   },
+   "foot_anchor_px": [
+    157.5,
+    298
+   ]
+  },
+  "nghi_3": {
+   "rect": {
+    "x": 360,
+    "y": 1,
+    "w": 326,
+    "h": 299
+   },
+   "foot_anchor_px": [
+    161.5,
+    298
+   ]
+  },
+  "danh_0": {
+   "rect": {
+    "x": 1011,
+    "y": 304,
+    "w": 307,
+    "h": 292
+   },
+   "foot_anchor_px": [
+    153.5,
+    291
+   ]
+  },
+  "danh_1": {
+   "rect": {
+    "x": 1,
+    "y": 1,
+    "w": 355,
+    "h": 300
+   },
+   "foot_anchor_px": [
+    154.5,
+    299
+   ]
+  },
+  "danh_2": {
+   "rect": {
+    "x": 1,
+    "y": 305,
+    "w": 339,
+    "h": 299
+   },
+   "foot_anchor_px": [
+    151.5,
+    298
+   ]
+  },
+  "danh_3": {
+   "rect": {
+    "x": 1011,
+    "y": 1,
+    "w": 316,
+    "h": 299
+   },
+   "foot_anchor_px": [
+    156.5,
+    298
+   ]
+  }
+ },
+ "hoat_anh": {
+  "nghi": {
+   "khung": [
+    "nghi_0",
+    "nghi_1",
+    "nghi_2",
+    "nghi_3"
+   ],
+   "fps": 6,
+   "lap": true
+  },
+  "danh": {
+   "khung": [
+    "danh_0",
+    "danh_1",
+    "danh_2",
+    "danh_3"
+   ],
+   "fps": 10,
+   "lap": false,
+   "khung_trung": "danh_2"
+  }
+ },
+ "ti_le_so_goc": 0.265036,
+ "original_body_height_px": 981.0,
+ "body_height_atlas_px": 260.0
+}

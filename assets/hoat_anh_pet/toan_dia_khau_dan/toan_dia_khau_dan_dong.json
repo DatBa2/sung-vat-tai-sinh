@@ -1,0 +1,134 @@
+{
+ "schema_version": 1,
+ "pet_id": "toan_dia_khau_dan",
+ "status": "generated_checked",
+ "anh": "toan_dia_khau_dan_dong_atlas.png",
+ "dimensions": [
+  1358,
+  612
+ ],
+ "frames": {
+  "nghi_0": {
+   "rect": {
+    "x": 1,
+    "y": 1,
+    "w": 332,
+    "h": 304
+   },
+   "foot_anchor_px": [
+    166,
+    301
+   ]
+  },
+  "nghi_1": {
+   "rect": {
+    "x": 1,
+    "y": 309,
+    "w": 322,
+    "h": 302
+   },
+   "foot_anchor_px": [
+    160,
+    298
+   ]
+  },
+  "nghi_2": {
+   "rect": {
+    "x": 1005,
+    "y": 1,
+    "w": 329,
+    "h": 303
+   },
+   "foot_anchor_px": [
+    163,
+    300
+   ]
+  },
+  "nghi_3": {
+   "rect": {
+    "x": 671,
+    "y": 1,
+    "w": 330,
+    "h": 303
+   },
+   "foot_anchor_px": [
+    165,
+    299
+   ]
+  },
+  "danh_0": {
+   "rect": {
+    "x": 327,
+    "y": 309,
+    "w": 361,
+    "h": 301
+   },
+   "foot_anchor_px": [
+    182,
+    298
+   ]
+  },
+  "danh_1": {
+   "rect": {
+    "x": 1025,
+    "y": 309,
+    "w": 332,
+    "h": 296
+   },
+   "foot_anchor_px": [
+    167,
+    293
+   ]
+  },
+  "danh_2": {
+   "rect": {
+    "x": 337,
+    "y": 1,
+    "w": 330,
+    "h": 304
+   },
+   "foot_anchor_px": [
+    165,
+    300
+   ]
+  },
+  "danh_3": {
+   "rect": {
+    "x": 692,
+    "y": 309,
+    "w": 329,
+    "h": 300
+   },
+   "foot_anchor_px": [
+    165,
+    297
+   ]
+  }
+ },
+ "hoat_anh": {
+  "nghi": {
+   "khung": [
+    "nghi_0",
+    "nghi_1",
+    "nghi_2",
+    "nghi_3"
+   ],
+   "fps": 6,
+   "lap": true
+  },
+  "danh": {
+   "khung": [
+    "danh_0",
+    "danh_1",
+    "danh_2",
+    "danh_3"
+   ],
+   "fps": 10,
+   "lap": false,
+   "khung_trung": "danh_2"
+  }
+ },
+ "ti_le_so_goc": 0.271111,
+ "original_body_height_px": 900.0,
+ "body_height_atlas_px": 244.0
+}

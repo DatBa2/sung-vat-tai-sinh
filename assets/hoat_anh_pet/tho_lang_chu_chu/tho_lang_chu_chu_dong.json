@@ -1,0 +1,134 @@
+{
+ "schema_version": 1,
+ "pet_id": "tho_lang_chu_chu",
+ "status": "generated_checked",
+ "anh": "tho_lang_chu_chu_dong_atlas.png",
+ "dimensions": [
+  1698,
+  160
+ ],
+ "frames": {
+  "nghi_0": {
+   "rect": {
+    "x": 665,
+    "y": 1,
+    "w": 197,
+    "h": 154
+   },
+   "foot_anchor_px": [
+    98.5,
+    143
+   ]
+  },
+  "nghi_1": {
+   "rect": {
+    "x": 264,
+    "y": 1,
+    "w": 196,
+    "h": 157
+   },
+   "foot_anchor_px": [
+    98.5,
+    145
+   ]
+  },
+  "nghi_2": {
+   "rect": {
+    "x": 1301,
+    "y": 1,
+    "w": 198,
+    "h": 149
+   },
+   "foot_anchor_px": [
+    99.5,
+    145
+   ]
+  },
+  "nghi_3": {
+   "rect": {
+    "x": 1100,
+    "y": 1,
+    "w": 197,
+    "h": 152
+   },
+   "foot_anchor_px": [
+    99.5,
+    145
+   ]
+  },
+  "danh_0": {
+   "rect": {
+    "x": 1503,
+    "y": 1,
+    "w": 194,
+    "h": 140
+   },
+   "foot_anchor_px": [
+    100.5,
+    139
+   ]
+  },
+  "danh_1": {
+   "rect": {
+    "x": 866,
+    "y": 1,
+    "w": 230,
+    "h": 152
+   },
+   "foot_anchor_px": [
+    102.5,
+    147
+   ]
+  },
+  "danh_2": {
+   "rect": {
+    "x": 1,
+    "y": 1,
+    "w": 259,
+    "h": 158
+   },
+   "foot_anchor_px": [
+    109.5,
+    152
+   ]
+  },
+  "danh_3": {
+   "rect": {
+    "x": 464,
+    "y": 1,
+    "w": 197,
+    "h": 156
+   },
+   "foot_anchor_px": [
+    98.5,
+    145
+   ]
+  }
+ },
+ "hoat_anh": {
+  "nghi": {
+   "khung": [
+    "nghi_0",
+    "nghi_1",
+    "nghi_2",
+    "nghi_3"
+   ],
+   "fps": 6,
+   "lap": true
+  },
+  "danh": {
+   "khung": [
+    "danh_0",
+    "danh_1",
+    "danh_2",
+    "danh_3"
+   ],
+   "fps": 10,
+   "lap": false,
+   "khung_trung": "danh_2"
+  }
+ },
+ "ti_le_so_goc": 0.160858,
+ "original_body_height_px": 746.0,
+ "body_height_atlas_px": 120.0
+}

@@ -1,0 +1,134 @@
+{
+ "schema_version": 1,
+ "pet_id": "cuong_tan_ma_co",
+ "status": "generated_checked",
+ "anh": "cuong_tan_ma_co_dong_atlas.png",
+ "dimensions": [
+  1187,
+  567
+ ],
+ "frames": {
+  "nghi_0": {
+   "rect": {
+    "x": 1,
+    "y": 1,
+    "w": 283,
+    "h": 281
+   },
+   "foot_anchor_px": [
+    141.5,
+    280
+   ]
+  },
+  "nghi_1": {
+   "rect": {
+    "x": 288,
+    "y": 1,
+    "w": 280,
+    "h": 281
+   },
+   "foot_anchor_px": [
+    141.5,
+    280
+   ]
+  },
+  "nghi_2": {
+   "rect": {
+    "x": 572,
+    "y": 1,
+    "w": 278,
+    "h": 281
+   },
+   "foot_anchor_px": [
+    140.5,
+    280
+   ]
+  },
+  "nghi_3": {
+   "rect": {
+    "x": 312,
+    "y": 286,
+    "w": 293,
+    "h": 280
+   },
+   "foot_anchor_px": [
+    144.5,
+    279
+   ]
+  },
+  "danh_0": {
+   "rect": {
+    "x": 891,
+    "y": 286,
+    "w": 275,
+    "h": 272
+   },
+   "foot_anchor_px": [
+    137.5,
+    271
+   ]
+  },
+  "danh_1": {
+   "rect": {
+    "x": 1,
+    "y": 286,
+    "w": 307,
+    "h": 280
+   },
+   "foot_anchor_px": [
+    151.5,
+    279
+   ]
+  },
+  "danh_2": {
+   "rect": {
+    "x": 854,
+    "y": 1,
+    "w": 332,
+    "h": 280
+   },
+   "foot_anchor_px": [
+    134.5,
+    279
+   ]
+  },
+  "danh_3": {
+   "rect": {
+    "x": 609,
+    "y": 286,
+    "w": 278,
+    "h": 280
+   },
+   "foot_anchor_px": [
+    142.5,
+    279
+   ]
+  }
+ },
+ "hoat_anh": {
+  "nghi": {
+   "khung": [
+    "nghi_0",
+    "nghi_1",
+    "nghi_2",
+    "nghi_3"
+   ],
+   "fps": 6,
+   "lap": true
+  },
+  "danh": {
+   "khung": [
+    "danh_0",
+    "danh_1",
+    "danh_2",
+    "danh_3"
+   ],
+   "fps": 10,
+   "lap": false,
+   "khung_trung": "danh_2"
+  }
+ },
+ "ti_le_so_goc": 0.237691,
+ "original_body_height_px": 1178.0,
+ "body_height_atlas_px": 280.0
+}
